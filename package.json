@@ -1,0 +1,23 @@
+{
+  "name": "Introduccion a la automatica",
+  "version": "0.9.1",
+  "description": "Contenido para asignatura de introduccion a la automatica para los estudiantes de informatica",
+  "main": "index.js",
+  "authors": {
+    "name": "Camilo Gonzalez Perez",
+    "email": "kmilogp8496@gmail.com"
+  },
+  "repository": "/asignatura-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "markdown-it-katex": "^2.0.3"
+  }
+}
