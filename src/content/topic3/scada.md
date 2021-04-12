@@ -346,8 +346,7 @@ Compañía minera WMC, en 1988 la zona de Olympic Dam producía inicialmente 45 
 
 **Hardware**: PLCs Allen Bradley y Siemens Conexión con PMACS, PDL y Servidores SQL
 
-Sistema de control de procesos original: sistema de control
-distribuido de tipo propietario (ABB 300).
+Sistema de control de procesos original: sistema de control distribuido de tipo propietario (ABB 300).
 
 Control sobre unas **400 000 variables** y unas 40 000 entradas/salidas digitales.
 

@@ -2,7 +2,7 @@
 
 ## Ingeniero de control
 
-Ingeniero que participa en tareas de diseño
+Ingeniero que participa en tareas de diseño de sistemas de control. Tiene conocimientos abundante de los procesos con los que trabaja.
 
 ### Su objeto de trabajo está en las áreas de
 
@@ -19,9 +19,9 @@ Ingeniero que participa en tareas de diseño
 
 ### ¿Por qué se controla?
 
-- Mantener o mejorar la calidad de un producto
-- Hacer más eficiente el proceso
-- Garantizar la seguridad del personal y la planta.
+- Mantener o mejorar la calidad de un producto, eliminando en ocasiones algunas limitantes que puede tener la mano de obra humana
+- Hacer más eficiente el proceso con el empleo de maquinarias y autómatas que permiten mayores velocidades en la elaboración de un producto, o preparar el embalaje para su envío
+- Garantizar la seguridad del personal y la planta con el empleo de maquinaria, de forma que no impliquen, o se reduzcan, los riesgos a la salud o integridad física de una persona o la planta del proceso.
 - Liberar al hombre de procesos rutinarios y tediosos.
 
 ## Definiciones y conceptos básicos

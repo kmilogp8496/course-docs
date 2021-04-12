@@ -26,15 +26,15 @@ Los encontramos en nuestra cotidianidad, desde la nevera hasta el sistema de con
 
 El simple acto de señalar con el dedo es un sistema de control. Ahora bien, su aplicación requiere de varias tecnologías como la informática, la eléctrica, la electrónica y las comunicaciones; también exige buena fundamentación matemática y conocimientos del proceso a controlar. De lo anterior se deriva que los sistemas de control sean un área multidisciplinar y transversal a las ingenierías y a otras ciencias. Concepto de Sistema: Conjunto de elementos y reglas que organizados e interrelacionados entre si, contribuyen a generar un resultado. Poseen características propias que los definen, que pueden ser constantes (parámetros del sistema) y cambiantes en el tiempo (variables del sistema) las cuales permiten determinar su comportamiento.
 
-- Parametros del sistema: Estructura del sistema, propiedades inmutables o características esenciales o aquellas que no cambian.
+**Parametros del sistema:** Estructura del sistema, propiedades inmutables o características esenciales o aquellas que no cambian.
 
-- Variables: Elementos que si van cambiando y que evolucionan además representan de alguna manera la evolución del sistema en el tiempo.
+**Variables:** Elementos que si van cambiando y que evolucionan además representan de alguna manera la evolución del sistema en el tiempo.
 
-- Variable de entrada: Es una variable del sistema tal que una modificación de su magnitud o condición puede alterar el estado del sistema.
+**Variable de entrada:** Es una variable del sistema tal que una modificación de su magnitud o condición puede alterar el estado del sistema.
 
-- Variable de salida: es una variable del sistema cuya magnitud o condición se mide.
+**Variable de salida:** es una variable del sistema cuya magnitud o condición se mide.
 
-- Perturbación: es una señal que tiende a afectar el valor de la salida de un sistema.
+**Perturbación:** es una señal que tiende a afectar el valor de la salida de un sistema.
 
 Sistema estable
 
@@ -48,9 +48,9 @@ Sistema con estabilidad crítica
 
 ![Sistema estable](./assets/critico.png)
 
-### Estabilidad e inestabilidad de un sistema
+## Estabilidad e inestabilidad de un sistema
 
-La estabilidad en un Sistema de Control es su propiedad mas importante tanto es asi que podemos decir que no se puede hablar Sistema de Control si este no es Estable. Un sistema es estable si responde con una variación finita a variaciones finitas de sus señales de entrada. Si se considera una señal lineal e invariante en el tiempo, la inestabilidad del sistema supondrá una respuesta que aumenta o disminuye de forma exponencial o una oscilación cuya amplitud aumenta exponencialmente.
+La estabilidad en un Sistema de Control es su propiedad más importante tanto es asi que podemos decir que no se puede hablar Sistema de Control si este no es estable. Un sistema es estable si responde con una variación finita a variaciones finitas de sus señales de entrada. Si se considera una señal lineal e invariante en el tiempo, la inestabilidad del sistema supondrá una respuesta que aumenta o disminuye de forma exponencial o una oscilación cuya amplitud aumenta exponencialmente.
 
 ## Sistema de control en lazo abierto
 

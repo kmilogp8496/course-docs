@@ -63,10 +63,12 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    editLinks: false,
+    editLinks: true,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: true,
+    navbar: true,
+    smoothScroll: true,
     nav: [
       {
         text: 'Guide',
@@ -100,6 +102,8 @@ module.exports = {
             'topic2/',
             'topic2/characteristics',
             'topic2/measurement-systems',
+            'topic2/level-measurement',
+            'topic2/temperature-measurement',
           ],
         },
         {
